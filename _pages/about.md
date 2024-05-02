@@ -9,9 +9,9 @@ profile:
   image: IMG_1283.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2.22, Jaeger 7, Research School of Earth Sciences</p>
-    <p>Mills Road, Australian National University</p>
-    <p>Canberra, ACT, Australia 2601</p>
+    <p>2.22, J7, 124 Mills Road</p>
+    <p>Australian National University</p>
+    <p>Canberra, Australia 2601</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
