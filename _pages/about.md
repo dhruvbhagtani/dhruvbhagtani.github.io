@@ -9,7 +9,7 @@ profile:
   image: IMG_1283.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2.22, J7, 124 Mills Road</p>
+    <p>2.22, J7, 142 Mills Rd</p>
     <p>Australian National University</p>
     <p>Canberra, Australia 2601</p>
 
