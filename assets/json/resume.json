@@ -25,16 +25,16 @@
     {
       "institution": "Australian National University",
       "location": "Canberra, Australia",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.anu.edu.au/",
       "area": "The interplay between wind stress and surface buoyancy forcing in driving large-scale ocean circulation",
       "studyType": "PhD",
-      "startDate": "20-10-26",
+      "startDate": "2020-10-26",
       "endDate": "Present"
     },
     {
       "institution": "Indian Institute of Technology Madras",
       "location": "Chennai, India",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.iitm.ac.in/",
       "area": "Parallelised finite element based solver for cyclone inundation in the east coast of Tamil Nadu",
       "studyType": "Bachelors of Technology (Honours)",
       "startDate": "2016",
@@ -58,7 +58,7 @@
       "reference": "ryan.holmes@bom.gov.au"
     },
     {
-      "name": "Prof. Sriram Venkatachalam",
+      "name": "Prof Sriram Venkatachalam",
       "icon": "fa-solid fa-thumbtack",
       "reference": "vsriram@iitm.ac.in"
     }
