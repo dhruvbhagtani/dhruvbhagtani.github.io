@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Co-evaluated the ocean component of Australia’s climate model ‘ACCESS’ and provided scientific input for the Coupled Model Intercomparison Project 7 (CMIP7) in a <a href="https://climateextremes.org.au/the-next-generation-of-climate-scientists-collaborate-on-the-australias-contribution-to-the-ipcc-reports/">3-day hackathon</a> in Australia :kangaroo:
+<a href="https://joss.theoj.org/papers/10.21105/joss.06857">New paper!</a> :round_pushpin: Journal of Open Source Software. Barnes, A. J., Constantinou, N. C., Gibson, A., Kiss, A. E., Chapman, C., Reilly, J., **Bhagtani, D.**, and Yang L. (2024).

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-25 16:11:00-0400
+date: 2024-10-18 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Co-authored the Australian Research Centre of Excellence for Climate Extremes annual report: <a href="https://climateextremes.org.au/the-state-of-weather-and-climate-extremes-2023/">State of Weather and Climate Extremes 2023</a> :tornado:
+<a href="https://arxiv.org/abs/2410.17089">Paper</a> submitted to the Journal of Geophysical Research: Oceans. **Bhagtani, D.**, Hogg, A.M., Holmes, R.M., Constantinou, N.C., and Khatri, H. (2024) Impact of the North Atlantic Oscillation on the subtropical and subpolar gyres :scroll:
