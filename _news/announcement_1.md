@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-25 16:11:00-0400
+date: 2025-09-19 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented at the <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/">XIII Physical Oceanography Dissertation Symposium</a> at Kauai, Hawaii :beach_umbrella:
+Attended and presented at the annual Integration of Models and Observations across Scales :sunny: 
