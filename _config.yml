@@ -204,7 +204,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", "files/Dhruv_Bhagtani_WindBorne_Application.md"]
 exclude:
   - bin/
   - CONTRIBUTING.md
