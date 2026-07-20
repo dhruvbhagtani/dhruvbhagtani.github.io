@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-25 16:11:00-0400
+date: 2026-02-26 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented at the <a href="https://kauainownews.com/2024/10/22/worlds-next-generation-of-marine-scientists-present-cutting-edge-research-on-kauai/">XIII Physical Oceanography Dissertation Symposium</a> at Kauai, Hawaii :beach_umbrella:
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vm2b2M8AAAAJ&sortby=pubdate&citation_for_view=vm2b2M8AAAAJ:dhFuZR0502QC">Presented</a> at the AGU Ocean Sciences Meeting 2026
